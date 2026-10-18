@@ -1,7 +1,14 @@
 # TapatioApps
 
 Sitio web estático para TapatioApps. No requiere instalar dependencias ni compilar.
-Incluye el arte de marca local en `assets/tapatioapps-brand.png` para no depender del sitio de Google para esa imagen.
+Incluye el arte de marca y recursos visuales locales para los proyectos, para no depender
+de los sitios externos para mostrar sus imágenes.
+
+Las imágenes de Today's Task y Texto Secreto provienen de sus fichas oficiales en
+[Google Play](https://play.google.com/store/apps/details?id=tapatioapps.todaystask) y
+[Google Play](https://play.google.com/store/apps/details?id=tapatio.secret.text).
+Las de Terecoin y Screen Shooting se tomaron de sus páginas oficiales en
+[Google Sites](https://sites.google.com/view/terecoin/inicio) e [itch.io](https://tapatioapps.itch.io/tapatio-screen-shooting).
 
 ## Publicar en GitHub Pages
 
