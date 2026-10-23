@@ -4,7 +4,7 @@ Sitio web estático para TapatioApps. No requiere instalar dependencias ni compi
 Incluye el arte de marca y recursos visuales locales para los proyectos, para no depender
 de los sitios externos para mostrar sus imágenes.
 
-Las imágenes de Today's Task y Texto Secreto provienen de sus fichas oficiales en
+Las imágenes de Terminal y Ocultar mensajes en fotos provienen de sus fichas oficiales en
 [Google Play](https://play.google.com/store/apps/details?id=tapatioapps.todaystask) y
 [Google Play](https://play.google.com/store/apps/details?id=tapatio.secret.text).
 Las de Terecoin y Screen Shooting se tomaron de sus páginas oficiales en
@@ -18,4 +18,6 @@ Las de Terecoin y Screen Shooting se tomaron de sus páginas oficiales en
 4. Selecciona la rama principal y la carpeta **/(root)**, y guarda.
 
 GitHub Pages publicará `index.html` desde la raíz del repositorio. Los enlaces a Google Play
-y redes sociales ya están configurados en la página.
+y redes sociales ya están configurados en la página. Mantén también los archivos `favicon.svg`,
+`favicon-96.png` y `favicon.ico` en esa raíz para que el icono esté disponible en navegadores y
+buscadores.
