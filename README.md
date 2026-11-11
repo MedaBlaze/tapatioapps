@@ -7,6 +7,8 @@ de los sitios externos para mostrar sus imágenes.
 Las imágenes de Terminal y Ocultar mensajes en fotos provienen de sus fichas oficiales en
 [Google Play](https://play.google.com/store/apps/details?id=tapatioapps.todaystask) y
 [Google Play](https://play.google.com/store/apps/details?id=tapatio.secret.text).
+El icono y las cinco capturas de Snake Souls provienen de su ficha oficial en
+[Google Play](https://play.google.com/store/apps/details?id=tapatioapps.snakesouls).
 Las de Terecoin y Screen Shooting se tomaron de sus páginas oficiales en
 [Google Sites](https://sites.google.com/view/terecoin/inicio) e [itch.io](https://tapatioapps.itch.io/tapatio-screen-shooting).
 
